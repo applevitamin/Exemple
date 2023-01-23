@@ -40,8 +40,8 @@ int IndexOf(int[] collection, int find)
 int[] array = new int[10];
 
 FillArray(array);
-array[3] = 4;
-array[4] = 4;
+array[3] = 12;
+array[4] = 32;
 
 PrintArray(array);
 Console.WriteLine();
